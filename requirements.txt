@@ -1,0 +1,5 @@
+line-bot-sdk
+Flask
+beautifulsoup4
+bs4
+requests
